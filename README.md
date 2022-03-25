@@ -1,7 +1,11 @@
 ## Grupo 4
-You can use the [editor on GitHub](https://github.com/JimenaVegaS/Grupo-4/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Participantes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aliaga Goicochea, Andres
+Dueñas Lagua, Francklin
+Rodriguez Valderrama, Bertil
+Rojas Delgado, Camila
+Vega Sanchez, Jimena
 
 ### 2Markdown
 
