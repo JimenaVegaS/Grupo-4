@@ -2,9 +2,13 @@
 Participantes:
 
 Aliaga Goicochea, Andres
+
 Dueñas Lagua, Francklin
+
 Rodriguez Valderrama, Bertil
+
 Rojas Delgado, Camila
+
 Vega Sanchez, Jimena
 
 ### 2Markdown
